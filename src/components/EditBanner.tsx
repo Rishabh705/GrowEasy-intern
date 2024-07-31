@@ -56,7 +56,7 @@ export default function EditBanner({ id, attribution, title, description, classN
                     <DialogHeader>
                         <DialogTitle>Edit Banner</DialogTitle>
                         <DialogDescription>
-                            Make changes to banner here. Click done when you're done.
+                            Make changes to banner here. Click done when you&apos;re done.
                         </DialogDescription>
                     </DialogHeader>
                     <BannerForm attribution={attribution} title={title} description={description}/>
@@ -74,7 +74,7 @@ export default function EditBanner({ id, attribution, title, description, classN
                 <DrawerHeader className="text-left">
                     <DrawerTitle>Edit Banner</DrawerTitle>
                     <DrawerDescription>
-                        Make changes to banner here. Click done when you're done.
+                        Make changes to banner here. Click done when you&apos;re done.
                     </DrawerDescription>
                 </DrawerHeader>
                 <BannerForm className="px-4" attribution={attribution} title={title} description={description}/>
