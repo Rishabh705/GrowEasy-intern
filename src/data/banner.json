@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Summer Sale",
+        "description": "Up to 50% off on all items",
+        "cta": "Shop Now",
+        "image": "/images/summer-sale.jpg",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png",
+        "attribution": "Photo by John Doe on Unsplash"
+    },
+    {
+        "id": 2,
+        "title": "New Arrivals",
+        "description": "Check out our latest collection",
+        "cta": "Explore",
+        "image": "/images/new-arrivals.jpg",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png",
+        "attribution": "Photo by Jane Smith on Unsplash"
+    },
+    {
+        "id": 3,
+        "title": "Winter Wonderland",
+        "description": "Warm up with our cozy collection",
+        "cta": "Discover",
+        "image": "/images/winter-wonderland.jpg",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+        "attribution": "Photo by Alex Johnson on Unsplash"
+    },
+    {
+        "id": 4,
+        "title": "Black Friday",
+        "description": "Biggest deals of the year",
+        "cta": "Save Big",
+        "image": "/images/black-friday.jpg",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/15/square.png",
+        "attribution": "Photo by Emily Davis on Unsplash"
+    },
+    {
+        "id": 5,
+        "title": "Spring Festival",
+        "description": "Celebrate with new fashion",
+        "cta": "Join Now",
+        "image": "/images/spring-festival.jpg",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png",
+        "attribution": "Photo by Michael Brown on Unsplash"
+    },
+    {
+        "id": 6,
+        "title": "Back to School",
+        "description": "Get ready for the new semester",
+        "cta": "Shop Supplies",
+        "image": "/images/back-to-school.jpg",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+        "attribution": "Photo by Sarah Wilson on Unsplash"
+    },
+    {
+        "id": 7,
+        "title": "Holiday Specials",
+        "description": "Exclusive offers for the holiday season",
+        "cta": "Check Offers",
+        "image": "/images/holiday-specials.jpg",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/15/square.png",
+        "attribution": "Photo by Daniel Lee on Unsplash"
+    },
+    {
+        "id": 8,
+        "title": "Tech Expo",
+        "description": "Discover the latest in technology",
+        "cta": "Learn More",
+        "image": "/images/tech-expo.jpg",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png",
+        "attribution": "Photo by Laura Martinez on Unsplash"
+    },
+    {
+        "id": 9,
+        "title": "Fitness Freak",
+        "description": "Gear up for your fitness journey",
+        "cta": "Get Fit",
+        "image": "/images/fitness-freak.jpg",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png",
+        "attribution": "Photo by David Brown on Unsplash"
+    },
+    {
+        "id": 10,
+        "title": "Gourmet Delights",
+        "description": "Indulge in culinary experiences",
+        "cta": "Taste Now",
+        "image": "/images/gourmet-delights.jpg",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+        "attribution": "Photo by Jessica Green on Unsplash"
+    }
+]
