@@ -21,7 +21,7 @@ export default function Page() {
     };
 
     fetchData();
-  }, []);
+  }, [setBannersData]);
 
   return (
     <MaxWidthWrapper className='my-8'>

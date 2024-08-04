@@ -131,4 +131,6 @@ const CanvasOverlay = forwardRef<HTMLCanvasElement, CanvasOverlayProps>(
         );
     }
 );
+
+CanvasOverlay.displayName = "CanvasOverlay";
 export default CanvasOverlay;
