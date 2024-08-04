@@ -40,7 +40,6 @@ const AdBanner: React.FC<AdBannerProps> = ({
         if (!canvas) return;
         
         const link = document.createElement("a");
-        console.log("dsdsd", link);
         link.download = "banner.png"; // Name of the downloaded file
         link.href = canvas.toDataURL("image/png"); // Convert canvas to image URL
         link.click(); // Trigger the download
