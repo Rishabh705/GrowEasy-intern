@@ -62,12 +62,9 @@ const EditBanner: React.FC<EditBannerProps> = ({ banner, className, images, down
     };
 
     const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
-        console.log("File input change detected"); // Debugging log
-        console.log(event); // Debugging log
         const file = event.target.files?.[0];
 
         if (file) {
-            console.log("File selected:", file); // Debugging log
             const reader = new FileReader();
             reader.onloadend = () => {
                 setImage(reader.result as string);
