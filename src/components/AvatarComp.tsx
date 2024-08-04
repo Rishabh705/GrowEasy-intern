@@ -8,12 +8,15 @@ interface AvatarProps {
     src: string;
     alt: string;
     fallback: string;
+    className?: string;
+    onClick: () => void;
 }
 
-export function AvatarComp({src, alt, fallback}: AvatarProps) {
+export function AvatarComp({src, alt, fallback, className, onClick}: AvatarProps) {
+
     return (
-        <Avatar>
-            <AvatarImage src={src} alt={alt} />
+        <Avatar onClick={onClick} className={className}>
+            <AvatarImage src={src} alt={alt}/>
             <AvatarFallback>{fallback}</AvatarFallback>
         </Avatar>
     )
